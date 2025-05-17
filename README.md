@@ -2,7 +2,8 @@
 
 Este é o repositório do curso [Desafio de Programação: Javascript]. Você pode acessar o conteúdo completo no LinkedIn Learning.
 
-![course-name-alt-text][lil-thumbnail-url]
+[course-name-alt-text]: Desafio de Programação: Javascript
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQFQ-BxUnZ4Uzg/learning-public-crop_675_1200/B4DZbJgHw2GUAk-/0/1747137363657?e=2147483647&v=beta&t=FQN879Ddyuh_hHdYK3ovBzaWnsmtJiZq3IoRoXDDkPc  
 
 Confira o arquivo Readme na ramificação principal para obter instruções e informações atualizadas.
 
@@ -19,9 +20,7 @@ As ramificações são estruturadas para corresponder aos vídeos do curso. A co
 
 ## Instalação
 
-Utilizaremos o GitHub Codespaces para este curso. Para usar esses arquivos de exercícios, você precisa baixar o seguinte programa: [software] Clone este repositório em seu computador local (macOS) ou CMD (Windows), ou use uma ferramenta de interface gráfica do usuário (GUI), como o SourceTree, para fazer isso.
-
-[Instruções específicas do curso].
+Utilizaremos o GitHub Codespaces para este curso. Para usar esses arquivos de exercícios.
 
 Instrutora [Amanda Cavallaro](https://www.linkedin.com/learning/instructors/amanda-cavallaro)
 
