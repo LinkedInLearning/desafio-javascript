@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jantar_Vegetariano</title>
+</head>
+
+<body>
+  <!-- Para executar este arquivo, clique com o botão direito sobre ele na barra de navegação e selecione "Open with live server". Depois, abra as ferramentas do desenvolvedor no navegador e vá até o console. -->
+
+  <!-- Use este elemento para renderizar o cardápio -->
+  <ul id="cardapio"></ul>
+
+  <script>
+    const cardapio = [
+      {
+        nome: "Frango à parmegiana",
+        vegetariano: false
+      },
+      {
+        nome: "Conchiglione recheado",
+        vegetariano: true
+      },
+      {
+        nome: "Espaguete com almôndegas",
+        vegetariano: false
+      },
+      {
+        nome: "Tiramisù",
+        vegetariano: true
+      }
+    ]
+    // Escreva seu código aqui
+
+    // Solução comentada
+    // function montarCardapioVegetariano(cardapio) {
+    //   const listaCardapio = document.querySelector("#cardapio");
+    //   const opcoesVegetarianas = cardapio.filter(prato => prato.vegetariano === true);
+    //   opcoesVegetarianas.forEach(prato => {
+    //     let item = document.createElement("li");
+    //     item.textContent = prato.nome;
+    //     listaCardapio.appendChild(item);
+    //   })
+    // }
+
+    // montarCardapioVegetariano(cardapio);
+  </script>
+</body>
+
+</html>
